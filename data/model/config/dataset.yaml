@@ -1,0 +1,6 @@
+train: C:/Projects/sudolver-models/data/temp_yolo/images/train
+val: C:/Projects/sudolver-models/data/temp_yolo/images/val
+
+# Classes
+nc: 1  # number of classes
+names: ['sudoku']

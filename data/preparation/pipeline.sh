@@ -1,0 +1,1 @@
+python pipeline.py -i "C:\\Projects\\sudolver-models\\data\\training_data" -o "C:\\Temp\\workspace" -p "aug"

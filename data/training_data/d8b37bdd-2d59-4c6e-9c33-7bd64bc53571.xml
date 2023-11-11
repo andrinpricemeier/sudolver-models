@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>d8b37bdd-2d59-4c6e-9c33-7bd64bc53571.jpg</filename>
+	<path>/my-project-name/d8b37bdd-2d59-4c6e-9c33-7bd64bc53571.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>sudoku</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>45</ymin>
+			<xmax>927</xmax>
+			<ymax>1020</ymax>
+		</bndbox>
+	</object>
+</annotation>
